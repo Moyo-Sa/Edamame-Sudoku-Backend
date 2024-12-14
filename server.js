@@ -19,7 +19,8 @@ const app = express();
 const allowedOrigins = [
     'https://edamame-sudoku-moyo-sas-projects.vercel.app',
     'https://edamame-sudoku-git-main-moyo-sas-projects.vercel.app',
-    'http://localhost:5173/'
+    'http://localhost:5173/',
+    'https://edamame-sudoku-pzuk1z7lb-moyo-sas-projects.vercel.app'
 ];
 
 const corsOptions = {
